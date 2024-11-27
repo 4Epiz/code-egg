@@ -41,7 +41,7 @@ After installing the egg, you can create a new server using the VSCode Server eg
 If you encounter any issues:
 
 1. Check the server logs in the Pterodactyl panel for error messages
-2. Ensure your firewall allows traffic on the allocated port (default: 8080)
+2. Ensure your firewall allows traffic on the allocated port
 3. Verify that the server has enough resources allocated
 
 If problems persist, please open an issue in this repository.
